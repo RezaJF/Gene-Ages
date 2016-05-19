@@ -1,7 +1,7 @@
 # Gene-Ages
 
 ## A consensus approach to estimating gene ages for model organisms
-
+[![DOI](https://zenodo.org/badge/22155/marcottelab/Gene-Ages.svg)](https://zenodo.org/badge/latestdoi/22155/marcottelab/Gene-Ages)
 This repository contains scripts, data, and ipython notebooks in support of our manuscript:
 
 **"Towards Consensus Gene Ages"** 
